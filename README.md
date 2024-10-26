@@ -20,5 +20,5 @@
 - Not working on anything at the moment!
 
 ### Previous Project(s)
-- Quantum Generative Adversarial Neural Network (v1) - [`ASDRP-QGAN`](https://github.com/dssikdar/asdrp_QGAN)
-- Quantum Generative Adversarial Neural Networks #2 - [`Graph-QGAN`](https://github.com/adelly13/Graph-QGAN)
+- Quantum Convolutional Neural Network (repo unavailable to public due to ASDRP rules on IP)
+- Quantum Graph Generative Adversarial Neural Network (repo unavailable to public due to ASDRP rules on IP)

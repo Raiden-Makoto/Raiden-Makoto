@@ -22,6 +22,3 @@
 ### Previous Project(s)
 - Quantum Generative Adversarial Neural Network (v1) - [`ASDRP-QGAN`](https://github.com/dssikdar/asdrp_QGAN)
 - Quantum Generative Adversarial Neural Networks #2 - [`Graph-QGAN`](https://github.com/adelly13/Graph-QGAN)
-
-
-[//]: #[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BScQuantumRizzics&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats). 

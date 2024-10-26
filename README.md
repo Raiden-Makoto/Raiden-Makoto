@@ -13,7 +13,7 @@
 
 ### Publications
 - First version (proof-of-concept) of QGAN [published in JEI](https://emerginginvestigators.org/articles/22-143)
-- Quantum Week 2023 Proceeding available [here](https://ieeexplore.ieee.org/document/10313850) *must have IEEE account to view*
+- Quantum Week 2023 Proceeding available [here](https://ieeexplore.ieee.org/document/10313850) (*must have IEEE account to view*)
 - Quantum Week 2024 Paper available [here](https://replay.dropbox.com/project/pid_rp:AAAAANG4lKGujHlMkFWN9JJU-R9gOh5YPK1YCx3X1n1NyYwA/video/pid_rv:AAAAAJolA3ikDaDaxG8P_rXnj5ULG8nyMaNEFXoLr9ztMD3Z)
 
 ### Current Project
@@ -24,5 +24,4 @@
 - Quantum Generative Adversarial Neural Networks #2 - [`Graph-QGAN`](https://github.com/adelly13/Graph-QGAN)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BScQuantumRizzics&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats). 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BScQuantumRizzics&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[//]: #[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BScQuantumRizzics&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats). 

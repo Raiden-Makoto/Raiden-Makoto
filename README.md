@@ -1,7 +1,7 @@
 # HELLO THERE! 👋
 *Am I working hard or hardly working?*     
 
-#### Computer Science Major at UofT
+#### Compsci Spec at UofT
 
 ### About Me  
 - Interested in **Quantum Computing** and its applications in  **Machine Learning + AI**, **Chemistry** and **Aviation**.  
@@ -17,7 +17,7 @@
 - Quantum Week 2024 Paper available [here](https://replay.dropbox.com/project/pid_rp:AAAAANG4lKGujHlMkFWN9JJU-R9gOh5YPK1YCx3X1n1NyYwA/video/pid_rv:AAAAAJolA3ikDaDaxG8P_rXnj5ULG8nyMaNEFXoLr9ztMD3Z)
 
 ### Current Project
-- Not working on anything at the moment!
+- Catharsis-AI: AI Therapist to help depressed UofT students cope (private repo)
 
 ### Previous Project(s)
 - Quantum Convolutional Neural Network (repo unavailable to public due to ASDRP rules on IP)

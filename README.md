@@ -20,5 +20,5 @@
 - Catharsis-AI: AI Therapist to help depressed UofT students cope (private repo)
 
 ### Previous Project(s)
-- Quantum Convolutional Neural Network (repo unavailable to public due to ASDRP rules on IP)
-- Quantum Graph Generative Adversarial Neural Network (repo unavailable to public due to ASDRP rules on IP)
+- Quantum Convolutional Neural Network 
+- Quantum Graph Generative Adversarial Neural Network 

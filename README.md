@@ -1,7 +1,7 @@
 # HELLO THERE! 👋
 *Am I working hard or hardly working?*     
 
-#### Compsci Spec at UofT
+#### Compsci at UofT
 
 ### About Me  
 - Interested in **Quantum Computing** and its applications in  **Machine Learning + AI**, **Chemistry** and **Aviation**.  

@@ -21,4 +21,4 @@
 
 ### Previous Project(s)
 - Quantum Convolutional Neural Network 
-- Quantum Graph Generative Adversarial Neural Network 
+- Quantum Graph Generative Adversarial Neural Network [here](https://github.com/42Cummer/QWGraphGAN-GP)

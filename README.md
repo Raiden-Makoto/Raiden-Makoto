@@ -21,6 +21,8 @@
 
 ### Previous Project(s)
 - Quantum Convolutional Neural Network 
-- Quantum Graph Generative Adversarial Neural Network [here](https://github.com/42Cummer/QWGraphGAN-GP)
+- Quantum Graph Generative Adversarial Neural Network [here](https://github.com/Raiden-Makoto/QWGraphGAN-GP)
 
+## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiden-Makoto)](https://github.com/anuraghazra/github-readme-stats)

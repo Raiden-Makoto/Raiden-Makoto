@@ -17,8 +17,10 @@
 - Quantum Week 2024 Paper available [here](https://replay.dropbox.com/project/pid_rp:AAAAANG4lKGujHlMkFWN9JJU-R9gOh5YPK1YCx3X1n1NyYwA/video/pid_rv:AAAAAJolA3ikDaDaxG8P_rXnj5ULG8nyMaNEFXoLr9ztMD3Z)
 
 ### Current Project
-- Catharsis-AI: AI Therapist to help depressed UofT students cope (private repo)
+- [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app): Deploying Genshinfy-UwU to web
+- [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character
 
+  
 ### Previous Project(s)
 - Quantum Convolutional Neural Network 
 - Quantum Graph Generative Adversarial Neural Network [here](https://github.com/Raiden-Makoto/QWGraphGAN-GP)

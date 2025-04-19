@@ -1,5 +1,5 @@
 # HELLO THERE! 👋
-*Am I working hard or hardly working?*     
+*Am I working hard or hardly working? Or am I just hard?*     
 
 #### Compsci at UofT
 

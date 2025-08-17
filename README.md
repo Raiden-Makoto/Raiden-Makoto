@@ -1,30 +1,32 @@
 # HELLO THERE! 👋
-*Am I working hard or hardly working?* 
+*INAZUMA SHINES ETERNAL* 
 
-#### Compsci at UofT
+#### Software Eng and Stats Major @ UofT(ears)
 
 ### About Me  
-- Interested in **Quantum Computing** and its applications in  **Machine Learning + AI**, **Chemistry** and **Aviation**.  
-- Project co-leader in implemeting a Quantum Graph Generative Adversarial Neural Network for molecular synthesis as part of Aspiring Scholars Directed Research Program. (Jan 2023 -- Sep, 2024)
+The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of high schoolers in developing a Quantum Graph Generative Adversarial Neural Network for molecular synthesis as part of Aspiring Scholars Directed Research Program. Somehow we cooked and accomplished:
 - Technical Paper Talk @ IEEE Quantum Week (Sep 2024 @ Montreal, QC)
 - Poster Presentation @ IEEE Quantum Week (Sep 2024 @ Bellevue, WA)
 - Poster Presentation @ West Coast Biological Sciences Undergraduate Research Conference (Apr 2023 @ LMU)
-- Previously (attempted to) implement a Quantum Convolutional Neural Network for Efficient Image Recognition (2022)
 
 ### Publications
-- First version (proof-of-concept) of QGAN [published in JEI](https://emerginginvestigators.org/articles/22-143)
-- Quantum Week 2023 Proceeding available [here](https://ieeexplore.ieee.org/document/10313850) (*must have IEEE account to view*)
+- Quantum Week 2023 Proceeding available [here](https://ieeexplore.ieee.org/document/10313850) 
 - Quantum Week 2024 Paper available [here](https://replay.dropbox.com/project/pid_rp:AAAAANG4lKGujHlMkFWN9JJU-R9gOh5YPK1YCx3X1n1NyYwA/video/pid_rv:AAAAAJolA3ikDaDaxG8P_rXnj5ULG8nyMaNEFXoLr9ztMD3Z)
+- The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
 
 ### Current Project(s)
-- [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Real-time TTC Bus Arrivals
-- [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app): Deploying Genshinfy-UwU to web
-- [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character
+1. [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals
+   - I am currently updating my API backend to optimize its fetch calls
+   - Web app coming soon? 
+2 [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app) + [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character.
+  - *Note: project not deployed to web, if you want to try it yourself please clone the repository*
+  - Character repository actively updated every Genshin Impact update
+3. [UofTearsBot](https://github.com/Raiden-Makoto/UofTearsBot): AI therapist because UofT is peak pain and suffering
 
   
-### Previous Project(s)
-- Quantum Convolutional Neural Network 
+### Past Project(s)
 - Quantum Graph Generative Adversarial Neural Network [here](https://github.com/Raiden-Makoto/QWGraphGAN-GP)
+- [Tetris in Assembly](https://github.com/Raiden-Makoto/Tetris): Tetris game in Assembly for my CSCB58 final project
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

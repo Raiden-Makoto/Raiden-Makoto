@@ -21,7 +21,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 2 [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app) + [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character.
   - *Note: project not deployed to web, if you want to try it yourself please clone the repository*
   - Character repository actively updated every Genshin Impact update
-3. [UofTearsBot](https://github.com/Raiden-Makoto/UofTearsBot): AI therapist because UofT is peak pain and suffering
+3. [UofTearsBot](https://github.com/Raiden-Makoto/UofTears-Bot-v2): AI therapist because UofT is peak pain and suffering
 
   
 ### Past Project(s)

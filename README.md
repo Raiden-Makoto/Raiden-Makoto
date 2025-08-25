@@ -17,16 +17,16 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 ### Current Project(s)
 1. [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals
    - I am currently updating my API backend to optimize its fetch calls
-   - Web app coming soon? 
+   - Web app ~~coming soon~~ in development 
 2 [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app) + [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character.
   - *Note: project not deployed to web, if you want to try it yourself please clone the repository*
   - Character repository actively updated every Genshin Impact update
-3. [UofTearsBot](https://github.com/Raiden-Makoto/UofTears-Bot-v2): AI therapist because UofT is peak pain and suffering
 
   
 ### Past Project(s)
 - Quantum Graph Generative Adversarial Neural Network [here](https://github.com/Raiden-Makoto/QWGraphGAN-GP)
 - [Tetris in Assembly](https://github.com/Raiden-Makoto/Tetris): Tetris game in Assembly for my CSCB58 final project
+- [UofTearsBot](https://uoftearsbot.vercel.app/): AI therapist because UofT is peak pain and suffering
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

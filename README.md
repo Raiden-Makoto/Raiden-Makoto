@@ -17,7 +17,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 ### Current Project(s)
 1. [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals
    - I am currently updating my API backend to optimize its fetch calls
-   - Web app ~~coming soon~~ in development
+   - Web app ~~coming soon~~ in development [here](https://github.com/Raiden-Makoto/wheresmybus)
      
 2 [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app) + [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character.
   - *Note: project not deployed to web, if you want to try it yourself please clone the repository*

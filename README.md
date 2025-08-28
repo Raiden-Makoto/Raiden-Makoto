@@ -15,9 +15,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
 
 ### Current Project(s)
-1. [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals
-   - I am currently updating my API backend to optimize its fetch calls
-   - Web app ~~coming soon~~ in development [here](https://github.com/Raiden-Makoto/wheresmybus)
+1. [TTC Bus Tracker](https://github.com/Raiden-Makoto/wheresmybus)): View real-time TTC Bus Arrivals, stop information, and more
      
 2 [Genshinfy.App](https://github.com/Raiden-Makoto/genshinfy-app) + [Genshinfy-UwU](https://github.com/Raiden-Makoto/Genshinfy-UwU): Style Transfer Model to turn yourself into a **Genshin Impact** character.
   - *Note: project not deployed to web, if you want to try it yourself please clone the repository*
@@ -28,6 +26,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - Quantum Graph Generative Adversarial Neural Network [here](https://github.com/Raiden-Makoto/QWGraphGAN-GP)
 - [Tetris in Assembly](https://github.com/Raiden-Makoto/Tetris): Tetris game in Assembly for my CSCB58 final project
 - [UofTearsBot](https://uoftearsbot.vercel.app/): AI therapist because UofT is peak pain and suffering
+- [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals (API is probably outdated)
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

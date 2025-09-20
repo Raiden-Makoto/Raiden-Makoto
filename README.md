@@ -16,8 +16,8 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
 
 ### Current Project(s)
-1. [TTC Bus Tracker](https://wheresmybus.vercel.app)): View real-time TTC Bus Arrivals, stop information, and more    
-2. None
+1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more    
+2. Updating Genshinfy to use Stable Diffusion and more recent improved image gen models.
      
 
   

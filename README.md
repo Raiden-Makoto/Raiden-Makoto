@@ -18,7 +18,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 ### Current Project(s)
 1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more
 2. [SoundofMusic](https://github.com/Raiden-Makoto/SoundOfMusic): A complete ML pipeline for generating song + lyrics in the style of the goat Taylor Swift
-3. [510 Spadina](https://github.com/Raiden-Makoto/510-Spadina): Temporary repository while I update Genshinfy to use Stable Diffusion and more recent improved image gen models.
+3. [510 Spadina](https://github.com/Raiden-Makoto/510Spadina): Temporary repository while I update Genshinfy to use Stable Diffusion and more recent improved image gen models.
 
   
 ### Completed/Past Project(s)

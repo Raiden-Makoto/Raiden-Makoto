@@ -27,6 +27,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - [GenshinfyV2](https://github.com/Raiden-Makoto/GenshinfyV2): Updated my original Genshinfy pipeline to use Stable Diffusion and more recent improved image gen models (AnythingV4).
 - [UofTearsBot](https://uoftearsbot.vercel.app/): AI therapist because UofT is peak pain and suffering
 - [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals (API is outdated so it probably doesn't work anymore)
+- [GoonCorner](https://github.com/Raiden-Makoto/67GoonCornerSybau): A Chrome extension that adds a video of subway surfers gameplay to every webpage. This extension is for Gen-Z and aims to improve ADHD attention. Project for HackTheValley X.
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

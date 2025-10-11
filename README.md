@@ -17,7 +17,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 
 ### Current Project(s)
 1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more
-2. [SoundofMusic](https://github.com/Raiden-Makoto/SoundOfMusic): A complete ML pipeline for generating song + lyrics in the style of the goat Taylor Swift
+2. I discovered MLX for Apple Silicon and am currently implementing a Message Passing Neural Network for Blood-Brain Barrier Permeability
 
   
 ### Completed/Past Project(s)
@@ -28,6 +28,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - [UofTearsBot](https://uoftearsbot.vercel.app/): AI therapist because UofT is peak pain and suffering
 - [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals (API is outdated so it probably doesn't work anymore)
 - [GoonCorner](https://github.com/Raiden-Makoto/67GoonCornerSybau): A Chrome extension that adds a video of subway surfers gameplay to every webpage. This extension is for Gen-Z and aims to improve ADHD attention. Project for HackTheValley X.
+- [SoundofMusic](https://github.com/Raiden-Makoto/SoundOfMusic): A complete ML pipeline for generating song + lyrics in the style of the goat Taylor Swift
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

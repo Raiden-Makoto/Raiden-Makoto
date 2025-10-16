@@ -17,7 +17,8 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 
 ### Current Project(s)
 1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more
-2. I discovered MLX for Apple Silicon and am currently implementing a Message Passing Neural Network for Blood-Brain Barrier Permeability
+2. I discovered MLX for Apple Silicon and implemented a Message Passing Neural Network for Blood-Brain Barrier Permeability available [here](https://github.com/Raiden-Makoto/MLX-MPNN/tree/main)
+3. Used MPNN above to augment the `QM9` dataset and am now implementing a Variational Autoencoder in MLX for molecule generation [here](https://github.com/Raiden-Makoto/MLX-MGCVAE/tree/main)
 
   
 ### Completed/Past Project(s)

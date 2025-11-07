@@ -16,9 +16,8 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
 
 ### Current Project(s)
-1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more
-2. I discovered MLX for Apple Silicon and implemented a Message Passing Neural Network for Blood-Brain Barrier Permeability available [here](https://github.com/Raiden-Makoto/MLX-MPNN/tree/main)
-3. Used MPNN above to augment the `QM9` dataset and am now implementing a Variational Autoencoder in MLX for molecule generation [here](https://github.com/Raiden-Makoto/MLX-MGCVAE/tree/main)
+1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more.
+2. An Autoregressive Conditional Variational Autoencoder (AR-CVAE) for molecular generation using SELFIES representation, built with Apple's MLX framework for efficient training on Apple Silicon [here](https://github.com/Raiden-Makoto/MLX-MGCVAE/tree/main)
 
   
 ### Completed/Past Project(s)
@@ -29,7 +28,10 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - [UofTearsBot](https://uoftearsbot.vercel.app/): AI therapist because UofT is peak pain and suffering
 - [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals (API is outdated so it probably doesn't work anymore)
 - [GoonCorner](https://github.com/Raiden-Makoto/67GoonCornerSybau): A Chrome extension that adds a video of subway surfers gameplay to every webpage. This extension is for Gen-Z and aims to improve ADHD attention. Project for HackTheValley X.
-- [SoundofMusic](https://github.com/Raiden-Makoto/SoundOfMusic): A complete ML pipeline for generating song + lyrics in the style of the goat Taylor Swift
+- [SoundofMusic](https://github.com/Raiden-Makoto/SoundOfMusic): A complete ML pipeline for generating song + lyrics in the style of Taylor Swift
+- I discovered MLX for Apple Silicon and implemented a Message Passing Neural Network for Blood-Brain Barrier Permeability prediction available [here](https://github.com/Raiden-Makoto/MLX-MPNN/tree/main)
+- A low-latency virtual piano application built with C++ and Qt, featuring real-time audio playback using macOS Core Audio [here](https://github.com/Raiden-Makoto/CplusplusPiano)
+- A simple snake game with status effects and powerups inspied by Minecraft and custom sound effects [here](https://github.com/Raiden-Makoto/Snek/tree/main)
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

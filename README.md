@@ -18,7 +18,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 ### Current Project(s)
 1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more.
 2. An Autoregressive Conditional Variational Autoencoder (AR-CVAE) for molecular generation using SELFIES representation, built with Apple's MLX framework for efficient training on Apple Silicon [here](https://github.com/Raiden-Makoto/MLX-MGCVAE/tree/main)
-3. Line 4 Sheppard-Yonge Simulator
+3. Building a brainrot mango and mustard platformer game based off the 67 meme 
 
   
 ### Completed/Past Project(s)

@@ -1,8 +1,7 @@
 # HELLO THERE! 👋
 *INAZUMA SHINES ETERNAL* 
 
-#### Software Eng and Stats Major @ UofT(ears)
-> Sneaking Golems into pockets and much more
+> Software Eng and Stats Major @ UofT(ears)
 
 ### About Me  
 The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of high schoolers in developing a Quantum Graph Generative Adversarial Neural Network for molecular synthesis as part of Aspiring Scholars Directed Research Program. Somehow we cooked and accomplished:
@@ -16,22 +15,7 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
 
 ### Current Project(s)
-1. [TTC Bus Tracker](https://wheresmybus.vercel.app): View real-time TTC Bus Arrivals, stop information, and more.
-2. Hybrid Quantum-Classical Variational Autoencoder
-
-  
-### Completed/Past Project(s)
-- Quantum Graph Generative Adversarial Neural Network [here](https://github.com/Raiden-Makoto/QWGraphGAN-GP)
-- Entropy-based [Wordle Solver](https://42cummer-entropywordlesolver.hf.space/) with a 100% success rate on 1533 past Wordles
-- [Tetris in Assembly](https://github.com/Raiden-Makoto/Tetris): Tetris game in Assembly for my CSCB58 final project
-- [GenshinfyV2](https://github.com/Raiden-Makoto/GenshinfyV2): Updated my original Genshinfy pipeline to use Stable Diffusion and more recent improved image gen models (AnythingV4).
-- [UofTearsBot](https://uoftearsbot.vercel.app/): AI therapist because UofT is peak pain and suffering
-- [StopSeeker](https://github.com/Raiden-Makoto/stopseeker): Mobile app for real-time TTC Bus Arrivals (API is outdated so it probably doesn't work anymore)
-- [GoonCorner](https://github.com/Raiden-Makoto/67GoonCornerSybau): A Chrome extension that adds a video of subway surfers gameplay to every webpage. This extension is for Gen-Z and aims to improve ADHD attention. Project for HackTheValley X.
-- [SoundofMusic](https://github.com/Raiden-Makoto/SoundOfMusic): A complete ML pipeline for generating song + lyrics in the style of Taylor Swift
-- I discovered MLX for Apple Silicon and implemented a Message Passing Neural Network for Blood-Brain Barrier Permeability prediction available [here](https://github.com/Raiden-Makoto/MLX-MPNN/tree/main)
-- A low-latency virtual piano application built with C++ and Qt, featuring real-time audio playback using macOS Core Audio [here](https://github.com/Raiden-Makoto/CplusplusPiano)
-- A simple snake game with status effects and powerups inspied by Minecraft and custom sound effects [here](https://github.com/Raiden-Makoto/Snek/tree/main)
+1. idk twin I'm too lazy to continuously keep this up to date just look at my repositories
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

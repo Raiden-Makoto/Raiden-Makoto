@@ -14,8 +14,10 @@ The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of h
 - Quantum Week 2024 Paper available [here](https://replay.dropbox.com/project/pid_rp:AAAAANG4lKGujHlMkFWN9JJU-R9gOh5YPK1YCx3X1n1NyYwA/video/pid_rv:AAAAAJolA3ikDaDaxG8P_rXnj5ULG8nyMaNEFXoLr9ztMD3Z)
 - The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
 
-### Current Project(s)
-1. idk twin I'm too lazy to continuously keep this up to date just look at my repositories
+### Notable Project(s)
+1. [Generative Design of Stable High-Entropy Alloys](https://github.com/Raiden-Makoto/GeoArchon)
+2. [Inverse Design of High-Performance Structural Ceramics](https://github.com/Raiden-Makoto/MinerCycle)
+3. [Atomistic Line Graph Neural Network for AI discovery of Lead-Free Preovskites](https://github.com/Raiden-Makoto/Geoculus)
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

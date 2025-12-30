@@ -1,23 +1,6 @@
 # HELLO THERE! 👋
-*INAZUMA SHINES ETERNAL* 
 
-> Software Eng and Stats Major @ UofT(ears)
-
-### About Me  
-The M in "Makoto" stands for  **Machine Learning**. Fun fact: I led a group of high schoolers in developing a Quantum Graph Generative Adversarial Neural Network for molecular synthesis as part of Aspiring Scholars Directed Research Program. Somehow we cooked and accomplished:
-- Technical Paper Talk @ IEEE Quantum Week (Sep 2024 @ Montreal, QC)
-- Poster Presentation @ IEEE Quantum Week (Sep 2024 @ Bellevue, WA)
-- Poster Presentation @ West Coast Biological Sciences Undergraduate Research Conference (Apr 2023 @ LMU)
-
-### Publications
-- Quantum Week 2023 Proceeding available [here](https://ieeexplore.ieee.org/document/10313850) 
-- Quantum Week 2024 Paper available [here](https://replay.dropbox.com/project/pid_rp:AAAAANG4lKGujHlMkFWN9JJU-R9gOh5YPK1YCx3X1n1NyYwA/video/pid_rv:AAAAAJolA3ikDaDaxG8P_rXnj5ULG8nyMaNEFXoLr9ztMD3Z)
-- The OG QGAN paper published in JEI [here](https://emerginginvestigators.org/articles/22-143)
-
-### Notable Project(s)
-1. [Generative Design of Stable High-Entropy Alloys](https://github.com/Raiden-Makoto/GeoArchon)
-2. [Inverse Design of High-Performance Structural Ceramics](https://github.com/Raiden-Makoto/MinerCycle)
-3. [Atomistic Line Graph Neural Network for AI discovery of Lead-Free Preovskites](https://github.com/Raiden-Makoto/Geoculus)
+Generic Readme Content
 
 ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

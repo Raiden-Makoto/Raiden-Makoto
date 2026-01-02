@@ -8,4 +8,4 @@ Generic Readme Content
 --->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raiden-Makoto)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raiden-Makoto&theme=vue-dark&background=45%2CD700EB%2C8F00EB)](https://git.io/streak-stats)

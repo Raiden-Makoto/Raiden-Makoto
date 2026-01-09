@@ -1,6 +1,6 @@
 # HELLO THERE! 👋
 
-Generic Readme Content
+READ THIS!!
 
 <!--- ## GitHub Stats
 ![Raiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiden-Makoto&show_icons=true&theme=highcontrast)

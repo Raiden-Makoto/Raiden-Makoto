@@ -16,4 +16,5 @@ READ THIS!!
 - [LlamaMPS](https://github.com/Raiden-Makoto/LlamaMPS): A custom, from-scratch Large Language Model inference engine optimized for Apple Silicon, featuring high-performance 4-bit quantization kernels written in raw Metal Shading Language (MSL). [IN PROGRESS]
 - [MCCatMod](https://github.com/Raiden-Makoto/MCCatMod): A Minecraft mod that gives increased utility to cats! Cats are now able to heal passively, wear cat armor, catch fish and rabbits, and play with each other. Different cat variants also provide different buffs!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raiden-Makoto&theme=dark&background=45%2C7900EB%2CD874EB)](https://git.io/streak-stats)
+<!----[![GitHub Streak](https://streak-stats.demolab.com?user=Raiden-Makoto&theme=dark&background=45%2C7900EB%2CD874EB)](https://git.io/streak-stats)--->
+

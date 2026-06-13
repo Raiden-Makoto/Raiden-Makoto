@@ -1,43 +1,22 @@
 /**
- * @name Skirk Cryo Local Theme
- * @author Raiden-Makoto
- * @version 1.0.0
- * @description Localized Skirk background theme without broken URL dependencies.
+ * @name Skirk Cryo Theme
+ * @description DarkMatter base with Skirk background and light blue accents
  */
 
-/* Clear all solid color containers so the background image shows through */
-.theme-dark, .theme-light, html, body, #app-mount, 
-[class^="app_"], [class^="bg_"], [class^="container_"], 
-[class^="chat_"], [class^="chatContent_"], [class^="sidebar_"], 
-[class^="panels_"], [class^="members_"], [class^="wrapper_"], 
-[class^="scroller_"], [class^="pageWrapper_"] {
-  background: rgba(12, 19, 31, 0.50) !important;
-  backdrop-filter: blur(0px) !important; /* Disables all sidebar blur entirely */
-}
+/* 1. Import the DarkMatter engine */
+@import url('https://discordstyles.github.io/DarkMatter/DarkMatter.css');
 
-/* Force the wallpaper onto the bottom layers from your local folder */
-html, body, #app-mount {
-  background-image: url("https://i.imgur.com/2vIH5KH.jpeg") !important;
-  background-position: center !important;
-  background-size: cover !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed !important;
-}
-
-/* Clean transparent lists */
-[class^="scroller_"] [class^="container_"],
-[class^="standardSidebarView_"],
-[class^="contentRegion_"] {
-  background: transparent !important;
-}
-
-/* Cryo text accent overrides */
+/* 2. Theme Configuration */
 :root {
-  --accent-color: #a4def9;
-  --text-link: #8ad2f3;
-  --mention-background: rgba(164, 222, 249, 0.15);
-  --mention-foreground: #bbf0ff;
-}
-[class^="modeSelected_"] {
-  background-color: rgba(164, 222, 249, 0.20) !important;
+  /* Background Image */
+  --background-image: url('https://i.imgur.com/2vIH5KH.jpeg') !important;
+
+  /* Cryo Light Blue Accents */
+  --accent-color: #7ee1ff !important;           /* DarkMatter's main accent */
+  --brand-experiment: #7ee1ff !important;       /* Discord's main UI buttons */
+  --brand-experiment-500: #7ee1ff !important;   /* Discord's active states */
+  --brand-experiment-560: #5ec7e6 !important;   /* Slightly darker blue for hover states */
+  
+  /* Optional: Tweak the background dimness if the image is too bright */
+  --background-overlay: rgba(0, 0, 0, 0.4) !important; 
 }
